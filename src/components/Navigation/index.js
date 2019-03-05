@@ -14,6 +14,7 @@ import AccountPage from '../Account';
 import AdminPage from '../Admin';
 
 import * as ROUTES from '../../constants/routes';
+import Firebase from './components/Firebase/firebase';
 
 const App = () => (
   <Router>
